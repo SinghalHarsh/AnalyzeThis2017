@@ -1,9 +1,9 @@
 # AnalyzeThis2017
 ## Data Science Challenge - American Express
 ```
-**Team Name:** Data_Targaryens
-**Team Members:** Harsh Singhal | Gaurav Jindal
-**Achievement:** 3rd Rank
+Team Name: Data_Targaryens
+Team Members: Harsh Singhal | Gaurav Jindal
+Achievement: 3rd Rank
 ```
 ## Problem Statement:
 
